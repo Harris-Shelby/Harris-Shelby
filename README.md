@@ -7,7 +7,7 @@
 <code><img height="20" src="https://img.shields.io/badge/-Vue.js-%23282899?style=flat-square&logo=vue.js"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Node.js-%23223300?style=flat-square&logo=node.js"></code>
 <code><img height="20" src="https://img.shields.io/badge/-MongoDB-HA248?style=flat-square&logo=mongodb"></code>
-  <img align="right" alt="PNG" width="400" height="400" src="wechat__signature.jpg" />
+  <img align="right" alt="PNG" width="400" height="400" src="https://github.com/Harris-Shelby/Harris-Shelby/blob/master/wechat__signature.jpg?raw=true" />
 
 **About me**
 
