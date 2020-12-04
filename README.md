@@ -21,3 +21,4 @@
 
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Harris-Shelby&show_icons=true&hide_border=true)
+![Popular kills](https://github-readme-stats.vercel.app/api/top-langs/?username=harris-shelby&layout=compact&hide_border=true&hide_title=true)
